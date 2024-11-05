@@ -314,7 +314,7 @@ string feistelStructure(string permutedPlaintext, vector<string> roundKeys) {
     return finalBlock;
 }
 
-
+//Read the code from here
 int main()
 {
 
