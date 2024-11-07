@@ -317,7 +317,7 @@ string feistelStructure(string permutedPlaintext, vector<string> roundKeys) {
 //Read the code from here
 int main()
 {
-
+//try to check the length of the roundkeys at each steps to avoid segmentation fault errors
 cout<<"\nDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESDESD\n\n\n";
     string st;
     cout << "Enter the 16 word bit Plaintext for Encryption :";
